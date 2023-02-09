@@ -5,6 +5,7 @@
 - 📫 How to reach me instagram: @_kartikss 
 -                     Linkdin: https://www.linkedin.com/in/kartik-salve1809/
 -                     gmail: techateshq@gmail.com
+-                            kartiksalve1809@gmail.com
 
 
 <I dont think I need extra lines for introduction anymore> 
