@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Kartik Salve</h1>
-<h3 align="center">A passionate Developer from India!</h3>
+<h1 align="center">Hello There 👋, I'm Kartik Salve</h1>
+<h3 align="center">A Passionate Engineer from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deadtik&label=Profile%20views&color=0e75b6&style=flat" alt="deadtik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deadtik" alt="deadtik" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/salve_kartik" target="blank"><img src="https://img.shields.io/twitter/follow/salve_kartik?logo=twitter&style=for-the-badge" alt="salve_kartik" /></a> </p>
-
 - 🔭 I’m currently working on [Optimizing Network through Edge Topologies](https://github.com/deadtik/smart-edge-topology)
 
 - 🌱 I’m currently learning **Machine Learning and Data Analysis.**
+
+- 👨‍💻 All of my projects are available at [https://portfolio2024-five-mauve.vercel.app/](https://portfolio2024-five-mauve.vercel.app/)
 
 - 💬 Ask me about **FullStack Development (MERN Stack), NextJs, VueJs and Databases!**
 
