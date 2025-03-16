@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Data Analysis.**
 
-- 👨‍💻 All of my projects are available at [https://portfolio2024-five-mauve.vercel.app/](https://portfolio2024-five-mauve.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio2024-five-mauve.vercel.app/](https://kartiksalve.vercel.app/)
 
 - 💬 Ask me about **FullStack Development (MERN Stack), NextJs, VueJs and Databases!**
 
