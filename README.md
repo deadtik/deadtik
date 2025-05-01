@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deadtik" alt="deadtik" /></a> </p>
 
-- 🔭 I’m currently working on [Optimizing Network through Edge Topologies](https://github.com/deadtik/smart-edge-topology)
+- 🔭 I’m currently working on [Building Airena](https://airena.app)
 
 - 🌱 I’m currently learning **Machine Learning and Data Analysis.**
 
