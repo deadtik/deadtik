@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **kartiksalve.work@gmail.com**
 
-- 📄 Know about my experiences [https://kartiksalve.vercel.app/Resume2025-updated.pdf](https://kartiksalve.vercel.app/Resume2025-updated.pdf)
+- 📄 Know about my experiences [https://kartiksalve.vercel.app/Resume2025-updated.pdf](https://kartiksalve2025.vercel.app/)
 
 - ⚡ Fun fact **I am a MONSTER.**
 
