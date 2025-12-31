@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deadtik" alt="deadtik" /></a> </p>
 
-- 🔭 I’m currently working on [Airena](https://github.com/deadtik/airena-rtmps)
+- 🔭 Recently completed : [Airena](https://airena.app)
 
 - 🌱 I’m currently learning **Google ADK, Finance and Agentic Development.**
 
 - 👯 I’m looking to collaborate on [FinPal - AI Agent](https://github.com/deadtik/finpal-adk)
 
-- 👨‍💻 All of my projects are available at [kartiksalve.vercel.app](kartiksalve.vercel.app)
+- 👨‍💻 All of my projects are available at [kartiksalve.vercel.app](kartikss.space)
 
 - 📝 I regularly write articles on [https://medium.com/@kartiksalve1809](https://medium.com/@kartiksalve1809)
 
