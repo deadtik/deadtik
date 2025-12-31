@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [FinPal - AI Agent](https://github.com/deadtik/finpal-adk)
 
-- 👨‍💻 All of my projects are available at [kartiksalve.vercel.app](kartikss.space)
+- 👨‍💻 All of my projects are available at [Portfolio](https://kartikss.space/projects)
 
 - 📝 I regularly write articles on [https://medium.com/@kartiksalve1809](https://medium.com/@kartiksalve1809)
 
